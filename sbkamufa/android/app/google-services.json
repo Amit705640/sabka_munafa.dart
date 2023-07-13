@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "669885323607",
+    "project_id": "sbka-munfa",
+    "storage_bucket": "sbka-munfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669885323607:android:b4246a9f42ca2ea3280612",
+        "android_client_info": {
+          "package_name": "com.sbka.sbkamufa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYFvt31gDY5pbs4Anb7gPunKjpjoeN_O4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
